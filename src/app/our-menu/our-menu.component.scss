@@ -1,0 +1,77 @@
+.our-menu-container {
+    background-image: url('./../../assets/img/1.desktop@3x.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.our-menu {
+    display: flex;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    margin-top: 120px;
+    margin-bottom: 64px;
+    color: #9f0908;
+    text-align: center;
+}
+
+.tonkotsu-ramen-img {
+    width: 352px;
+    height: 352px;
+    margin-left: 160px;
+    margin-right: 80px;
+}
+
+.spicy-miso-ramen-img {
+    width: 352px;
+    height: 352px;
+    margin-left: 80px;
+    margin-right: 160px;
+}
+
+.shio-ramen-img {
+    width: 352px;
+    height: 352px;
+    margin-left: 160px;
+    margin-right: 80px;
+}
+
+.menu-boxes {
+    display: flex;
+
+
+}
+
+.tonkotsu-ramen {
+    display: flex;
+    align-items: center;
+    margin-bottom: 56px;
+}
+
+.spicy-miso-ramen {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-bottom: 56px;
+}
+
+.shio-ramen {
+    display: flex;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+
+th {
+    font-family: 'Economica', sans-serif;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+td {
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: #675E54;
+}

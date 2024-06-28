@@ -1,0 +1,26 @@
+.footer {
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    height: 144px;
+    background-color: #0A141E;
+}
+
+.footer-bar {
+    margin-left: 160px;
+    margin-right: 160px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sakura-logo-footer-bar{
+    position: absolute;
+}
+
+
+.social-media-buttons {
+    display: flex;
+    column-gap: 10px;
+}
